@@ -1,0 +1,70 @@
+This is a questions file and this file consists of questions from basic to advanced that could be a checklist for interviews or to get practiced
+QUESTION-1:
+    Write a program to print Hello World
+    
+    Input: ----(None)
+    Output: Hello World
+    Pre-requisites: Understanding of print function
+
+QUESTION-2:
+    Write a program to print the name of person, age and salary  
+    Input:  mary 
+            19
+            67492.58
+    Output: Name - mary
+            age - 18
+            salary - 67492.58
+    Pre-requisites: Understanding how to take input from user and different data types that are used, also to print them
+    
+QUESTION-3:
+    Write a program to print whether the person is eligible to drive or not. (Hint: consider the age as input factor)
+    Input 1: 18
+    Output1: Eligible to drive
+    
+    Input 2: 7
+    Output2: Not eligible to drive
+    
+    Input 3: 58
+    Output3: Eligible to drive
+    
+    Pre-requisites: Understanding if-else 
+    
+QUESTION-4:
+    Write a program to print lesser number among three numbers (Note: consider that the input is taken from the user)
+    Input 1: 76,39,10
+    Output1: 10
+    
+    Input 2: 57,29,58
+    Output2: 29
+   
+    Pre-requisites: Understanding about nested if-else
+    
+QUESTION-5: 
+    Write a program to print a number 10 times  (Note: practice the same question using for, while, do-while loops)
+    Input: 5
+    Output: 5 5 5 5 5 5 5 5 5 5
+    pre-requisites: Basic understanding about for loops
+    
+QUESTION-6:
+    Write a program to print a multiplication table (Note: Input can be taken from user, and print the table in the given output format)
+    Input1:  5
+    Output1: 5x1=5
+             5x2=10
+             5x3=15
+             5x4=20
+             5x5=25
+             5x6=30
+             5x7=35
+             5x8=40
+             5x9=45
+             5x10=50
+    Pre-requisites: Understand working of loop and print in the desired format
+    
+    
+NOTE: BELOW QUESTIONS CONSISTS OF SOME IMPORTANT PATTERNS THAT ARE IMPORTANT FOR INTERVIEWS AND TO EXPAND THE KNOWLEDGE
+QUESTION-7: 
+
+    
+    
+    
+    
