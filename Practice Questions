@@ -61,10 +61,109 @@ QUESTION-6:
     Pre-requisites: Understand working of loop and print in the desired format
     
     
-NOTE: BELOW QUESTIONS CONSISTS OF SOME IMPORTANT PATTERNS THAT ARE IMPORTANT FOR INTERVIEWS AND TO EXPAND THE KNOWLEDGE
-QUESTION-7: 
+NOTE: BELOW QUESTIONS CONSISTS OF SOME IMPORTANT PATTERNS THAT ARE IMPORTANT FOR INTERVIEWS AND TO EXPAND THE KNOWLEDGE of programming 
+also consider to take the input from user.
+BASIC PATTERN 1:
+*
+* *
+* * *
+* * * *
 
+BASIC PATTERN 2:
+* * * *
+* * *
+* *
+*
+
+BASIC PATTERN 3:
+      *
+    * *
+  * * *  
+* * * *    
+
+BASIC PATTERN 4:
+* * * *
+  * * * 
+    * * 
+      *
+BASIC PATTERN 5 (RECTANGLE)
+* * * * * * * *
+* * * * * * * * 
+* * * * * * * * 
+* * * * * * * *
+BASIC PATTERN 6(HOLLOW RECTANGLE)
+* * * * * * * 
+*           * 
+* * * * * * *
+BASIC PATTERN 7 (FULL PYRAMID)
+            *
+           * *
+          * * *
+         * * * *
+        * * * * *
+BASIC PATTERN 8 (INVERTED FULL PYRAMID)
+        * * * * *
+         * * * *
+          * * * 
+           * * 
+            *
+DIAMOND PATTERNS
+
+1. SOLID DIAMOND
+            *
+           * *
+          * * *
+         * * * *
+          * * *
+           * * 
+            *
+2. HOLLOW DIAMOND
+            *
+           * *
+          *   *
+         *     *
+          *   *
+           * * 
+            *
+3. SOLID HALF DIAMOND
+    
+    *
+    * * 
+    * * *
+    * * * *
+    * * *
+    * * 
+    *
     
     
-    
-    
+FLOYD'S TRIANGLE
+ 
+01
+02 03
+04 05 06
+07 08 09 10
+11 12 13 14 15
+
+PASCAL'S TRIANGLE
+
+1
+1 1 
+1 2 1
+1 3 3 1
+1 4 6 4 1
+1 5 10 10 5 1
+
+NOTE: THIS FILE WILL ALWAYS BE UPDATED WITH NEW QUESTIONS
+------------------------------------------------------------------------------------------------
+DATASTRUCTURES:
+
+I. ARRAYS:
+
+
+
+
+
+
+
+
+
